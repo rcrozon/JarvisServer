@@ -4,7 +4,6 @@ import t2s.son.LecteurTexte;
 
 public class VocalSynthesis {
 		 
-	public int i = 0;
     public static LecteurTexte oLecteur ;
     
     public static LecteurTexte getLecteurInstance(){
